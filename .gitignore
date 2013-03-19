@@ -1,0 +1,6 @@
+*.class
+*.txt
+.project
+.classpath
+.settings
+*.rtf
